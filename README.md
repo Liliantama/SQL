@@ -85,3 +85,7 @@ An artist may have a bio statement and a bio statement must belong to one artist
 BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s)
 
 
+## PIZZA HOT ERD
+
+
+
