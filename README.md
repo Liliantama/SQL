@@ -87,5 +87,21 @@ BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s
 
 ## PIZZA HOT ERD
 
+![PIZZA HOT drawio](https://github.com/Liliantama/SQL/assets/171235266/b1bf1135-a608-4949-9bfe-74d2be7cadd7)
+
+## TRUE TRADE ERD
+
+![TRUE TRADE](https://github.com/Liliantama/SQL/assets/171235266/759c0843-61f1-4916-bc38-ddcf6b99fd30)
+
+## ART GALLERY ERD
+
+
+![ART GALLERY drawio (1)](https://github.com/Liliantama/SQL/assets/171235266/bb2a22db-c66e-467f-877f-5a45242c1311)
+
+
+
+
+
+
 
 
